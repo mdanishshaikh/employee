@@ -1,7 +1,4 @@
 # employee
-Employee Database
-
-This is made using MEAN stack
-Majorly Used Angular Node
-Also used MongoDB and Postman for database
-For CSS - Materialze 
+Employee Database using MEAN stack.
+Created Used Angular and Node.js additionally Express (and CORS npm)
+Also used MongoDB and Postman for database and Materialze for CSS
